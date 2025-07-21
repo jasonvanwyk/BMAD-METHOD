@@ -1,3 +1,37 @@
+# [4.31.0](https://github.com/bmadcode/BMAD-METHOD/compare/v4.30.4...v4.31.0) (2025-07-20)
+
+
+### Bug Fixes
+
+* enhanced user guide with better diagrams ([c445962](https://github.com/bmadcode/BMAD-METHOD/commit/c445962f259cd7d84c47a896e7fda99e83a30c8d))
+
+
+### Features
+
+* Installation includes a getting started user guide with detailed mermaid diagram ([df57d77](https://github.com/bmadcode/BMAD-METHOD/commit/df57d772cac9f9010811e7e86a6433a0fe636a45))
+
+## [4.30.4](https://github.com/bmadcode/BMAD-METHOD/compare/v4.30.3...v4.30.4) (2025-07-19)
+
+
+### Bug Fixes
+
+* docs ([8619006](https://github.com/bmadcode/BMAD-METHOD/commit/8619006c16731b99fa36b434d209a0c2caf2d998))
+* lint fix ([49e4897](https://github.com/bmadcode/BMAD-METHOD/commit/49e489701e55feac481806740ea54bebef042fba))
+
+## [4.30.3](https://github.com/bmadcode/BMAD-METHOD/compare/v4.30.2...v4.30.3) (2025-07-19)
+
+
+### Bug Fixes
+
+* improve code in the installer to be more memory efficient ([849e428](https://github.com/bmadcode/BMAD-METHOD/commit/849e42871ab845098fd196217bce83e43c736b8a))
+
+## [4.30.2](https://github.com/bmadcode/BMAD-METHOD/compare/v4.30.1...v4.30.2) (2025-07-17)
+
+
+### Bug Fixes
+
+* remove z2 ([dcb36a9](https://github.com/bmadcode/BMAD-METHOD/commit/dcb36a9b44b6644f6b2723c9067abaa9b0bc1999))
+
 ## [4.30.1](https://github.com/bmadcode/BMAD-METHOD/compare/v4.30.0...v4.30.1) (2025-07-15)
 
 
